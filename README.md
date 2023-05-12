@@ -2,7 +2,12 @@
 
 A Simple tic-tac-toe game with react.js
 
-run this by
+install npm
+```
+npm i
+```
+
+then
 ```
 npm start
 ```
